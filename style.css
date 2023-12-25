@@ -1,0 +1,18 @@
+#navigation a { margin-right: 0px;
+    color: white; 
+    font-size: 20px; } 
+#home { align-items: center;
+color: white;
+padding-left: 20px;
+#about { align-items: center;
+    color: black;
+    padding-left: 20px;
+    #content3 h1 { font-size: 40px; color:white; margin-left: 150px; }
+#content3 p { text-align: justify; color: white;  font-size: 20px; margin-left: 25em; margin-right: 25em; margin-top: 1em }
+#content3 a { color:white; }
+
+#contact { align-items: center;
+	    color: black;
+	    padding-left: 20px;
+        #content4 h1 { font-size: 40px; color:white; margin-bottom: 10px; }
+#content4 p, i { color: white; }
